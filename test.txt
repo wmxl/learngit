@@ -1,2 +1,0 @@
-this is just a testfile to test rm in git.
-
